@@ -10,7 +10,7 @@ include 'inc.php';
     
     <body>
     <?php
-    $api_categories_list = $api_url.'/siswa/?agama=Islam&api_key='.$api_key;
+    $api_categories_list = $api_url.'/siswa/?tingkat=10&jurusan=IPA&api_key='.$api_key;
     $json_list = @file_get_contents($api_categories_list);
     ?>
     <h1>Kategori</h1>

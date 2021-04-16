@@ -21,7 +21,8 @@ $limit = isset($_GET['limit']) ? (int) $_GET['limit'] : 0;
 //$name = isset($_GET['name']) ? $_GET['name'] : '';
 $tingkat = isset($_GET['tingkat']) ? $_GET['tingkat'] : '';
 $agama = isset($_GET['agama']) ? $_GET['agama'] : '';
-$agamatingkat = isset($_GET['agamatingkat']) ? $_GET['agamatingkat'] : '';
+$jurusan = isset($_GET['jurusan']) ? $_GET['jurusan'] : '';
+
 $sql_limit = '';
 if (!empty($limit)) {
     $sql_limit = ' LIMIT 0,'.$limit;
@@ -38,7 +39,7 @@ if (!empty($tingkat)) {
 */
 $agama_name = '';
 if (!empty($agama)) {
-    $agama_name = ' where agama LIKE \'%'.$agama.'%\' and tingkat LIKE \'%'.$tingkat.'%\' ';
+    $agama_name = ' where agama LIKE \'%'.$agama.'%\' and tingkat LIKE \'%'.$tingkat.'%\' and jurusan LIKE \'%'.$jurusan.'%\' ';
 }
 
 
