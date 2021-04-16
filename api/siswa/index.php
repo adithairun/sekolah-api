@@ -40,10 +40,7 @@ $agama_name = '';
 if (!empty($agama)) {
     $agama_name = ' where agama LIKE \'%'.$agama.'%\' and tingkat LIKE \'%'.$tingkat.'%\' ';
 }
-$agama_tingkat = '';
-if (!empty($agamatingkat)) {
-    $agama_tingkat = ' where agama LIKE \'%'.$agamatingkat.'%\' ';
-}
+
 
 
 //$cat_list = $db->query('select * from categories '.$sql_name.' '.$sql_limit);
