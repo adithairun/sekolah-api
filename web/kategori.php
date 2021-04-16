@@ -10,7 +10,7 @@ include 'inc.php';
     
     <body>
     <?php
-    $api_categories_list = $api_url.'/siswa/?tingkat=10&jurusan=IPA&api_key='.$api_key;
+    $api_categories_list = $api_url.'/siswa/?agama=kristen&tingkat=10&api_key='.$api_key;
     $json_list = @file_get_contents($api_categories_list);
     ?>
     <h1>Kategori</h1>
@@ -29,8 +29,8 @@ include 'inc.php';
             <th>ID</th>
             <th>Nama</th>
             <th>Tingkat</th>
-            <th>Kelas</th>
-            <th>Update</th>
+            <th>agama</th>
+            <th>jurusan</th>
             
         </tr>
 		
@@ -45,9 +45,10 @@ include 'inc.php';
             <tr>
                 <td>'.$no.'</td>
                 <td>'.$arr['nama_siswa'].'</td>
-                <td>'.$arr['nis'].'</td>
+            <td>'.$arr['tingkat'].'</td>
                 <td>'.$arr['agama'].'</td>
-                <td>'.$arr['tingkat'].'</td>
+                <td>'.$arr['jurusan'].'</td>
+                
                 
                 
             </tr>

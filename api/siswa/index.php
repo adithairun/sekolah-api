@@ -31,12 +31,12 @@ $sql_name = '';
 if (!empty($name)) {
     $sql_name = ' where tingkat LIKE \'%'.$name.'%\' ';
 }
-/*
+
 $tingkat_name = '';
 if (!empty($tingkat)) {
-    //$tingkat_name = ' where tingkat LIKE \'%'.$tingkat.'%\' ';
+    $tingkat_name = ' where tingkat LIKE \'%'.$tingkat.'%\' ';
 }
-*/
+
 $agama_name = '';
 if (!empty($agama)) {
     $agama_name = ' where agama LIKE \'%'.$agama.'%\' and tingkat LIKE \'%'.$tingkat.'%\' and jurusan LIKE \'%'.$jurusan.'%\' ';
