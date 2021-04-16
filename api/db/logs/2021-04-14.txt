@@ -1,0 +1,59 @@
+Time : 21:46:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X"%' "' at line 1
+Raw SQL : select * from categories where cat_description =" where cat_name LIKE '%"X"%' "
+
+Time : 21:46:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X"%' "' at line 1
+Raw SQL : select * from categories where cat_description =" where cat_name LIKE '%"X"%' "
+
+Time : 21:46:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where cat_name LIKE '%"X"%'' at line 1
+Raw SQL : select * from categories where cat_description = where cat_name LIKE '%"X"%'
+
+Time : 21:45:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where cat_name LIKE '%"X"%'' at line 1
+Raw SQL : select * from categories where cat_description  where cat_name LIKE '%"X"%'
+
+Time : 21:45:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where cat_name LIKE '%'x'%'' at line 1
+Raw SQL : select * from categories where cat_description  where cat_name LIKE '%'x'%'
+
+Time : 21:45:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where cat_name LIKE '%x%'' at line 1
+Raw SQL : select * from categories where cat_description  where cat_name LIKE '%x%'
+
+Time : 21:43:56
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'x' in 'where clause'
+Raw SQL : select * from categories where cat_description = x
+
+Time : 21:43:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X' at line 1
+Raw SQL : select * from categories where cat_description X
+
+Time : 21:41:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : select * from categories where
+
+Time : 21:41:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : select * from categories where
+
+Time : 21:41:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : select * from categories where
+
+Time : 21:41:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where cat_name LIKE '%x%'' at line 1
+Raw SQL : select * from categories where  where cat_name LIKE '%x%'
+
+Time : 21:40:39
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cat_desription' in 'where clause'
+Raw SQL : select * from categories WHERE `cat_desription` = X
+
+Time : 21:39:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where cat_name LIKE '%x%'' at line 1
+Raw SQL : select * from categories where cat_description = X  where cat_name LIKE '%x%'
+
+Time : 21:39:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where cat_name LIKE '%X%'' at line 1
+Raw SQL : select * from categories where cat_description = X  where cat_name LIKE '%X%'
