@@ -44,6 +44,8 @@ if (!empty($agama)) {
 
 
 
+
+
 //$cat_list = $db->query('select * from categories '.$sql_name.' '.$sql_limit);
 //$cat_list = $db->query('select * from data_siswa');
 $cat_list = $db->query('select * from data_siswa  '.$agama_name.' '.$sql_limit);
