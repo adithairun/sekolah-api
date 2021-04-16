@@ -1,3 +1,39 @@
+Time : 23:00:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where tingkat LIKE '%10%'' at line 1
+Raw SQL : select * from data_siswa   where agama LIKE '%islam%' and tingkat LIKE '%10%' and jurusan LIKE '%%'and jk LIKE '%%'  where tingkat LIKE '%10%'
+
+Time : 23:00:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where tingkat LIKE '%10%'' at line 1
+Raw SQL : select * from data_siswa   where agama LIKE '%islam%' and tingkat LIKE '%10%' and jurusan LIKE '%%'and jk LIKE '%%'  where tingkat LIKE '%10%'
+
+Time : 23:00:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where tingkat LIKE '%10%'' at line 1
+Raw SQL : select * from data_siswa   where agama LIKE '%islam%' and tingkat LIKE '%10%' and jurusan LIKE '%%'and jk LIKE '%%'  where tingkat LIKE '%10%'
+
+Time : 23:00:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where tingkat LIKE '%10%'' at line 1
+Raw SQL : select * from data_siswa   where agama LIKE '%islam%' and tingkat LIKE '%10%' and jurusan LIKE '%%'and jk LIKE '%%'  where tingkat LIKE '%10%'
+
+Time : 23:00:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where tingkat LIKE '%10%'' at line 1
+Raw SQL : select * from data_siswa   where agama LIKE '%islam%' and tingkat LIKE '%10%' and jurusan LIKE '%%'and jk LIKE '%%'  where tingkat LIKE '%10%'
+
+Time : 23:00:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where tingkat LIKE '%10%'' at line 1
+Raw SQL : select * from data_siswa   where agama LIKE '%islam%' and tingkat LIKE '%10%' and jurusan LIKE '%%'and jk LIKE '%%'  where tingkat LIKE '%10%'
+
+Time : 23:00:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where tingkat LIKE '%10%'' at line 1
+Raw SQL : select * from data_siswa   where agama LIKE '%islam%' and tingkat LIKE '%10%' and jurusan LIKE '%%'and jk LIKE '%%'  where tingkat LIKE '%10%'
+
+Time : 23:00:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where tingkat LIKE '%10%'' at line 1
+Raw SQL : select * from data_siswa   where agama LIKE '%islam%' and tingkat LIKE '%10%' and jurusan LIKE '%%'and jk LIKE '%%'  where tingkat LIKE '%10%'
+
+Time : 23:00:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where tingkat LIKE '%10%'' at line 1
+Raw SQL : select * from data_siswa   where agama LIKE '%islam%' and tingkat LIKE '%10%' and jurusan LIKE '%%'and jk LIKE '%%'  where tingkat LIKE '%10%'
+
 Time : 22:57:59
 SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where tingkat LIKE '%10%'' at line 1
 Raw SQL : select * from data_siswa   where agama LIKE '%islam%' and tingkat LIKE '%10%' and jurusan LIKE '%%'and jk LIKE '%%'  where tingkat LIKE '%10%'
