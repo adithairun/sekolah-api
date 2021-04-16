@@ -38,7 +38,7 @@ if (!empty($tingkat)) {
 */
 $agama_name = '';
 if (!empty($agama)) {
-    $agama_name = ' where agama \'='.$agama.'';
+    $agama_name = ' where agama \'='.$agama.'=\'';
 }
 $agama_tingkat = '';
 if (!empty($agamatingkat)) {
