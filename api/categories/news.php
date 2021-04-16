@@ -38,7 +38,7 @@ if (!empty($tingkat)) {
 */
 $agama_name = '';
 if (!empty($agama)) {
-    $agama_name = ' where agama LIKE \'%'.$agama.'%\' ' ' where agama LIKE \'%'.$agamatingkat.'%\' ';
+    $agama_name = ' where agama LIKE \'%'.$agama.'%\' ' ;
 }
 $agama_tingkat = '';
 if (!empty($agamatingkat)) {
