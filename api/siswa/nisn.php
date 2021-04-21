@@ -34,7 +34,7 @@ if (!empty($name)) {
 
 $nisn_name = '';
 if (!empty($nisn)) {
-    $nisn_name = ' where nisn LIKE \'%'.$nisn.'%\' ';
+    $nisn_name = $nisn.'%\' ';
 }
 
 
@@ -45,7 +45,7 @@ if (!empty($nisn)) {
 
 //$cat_list = $db->query('select * from categories '.$sql_name.' '.$sql_limit);
 //$cat_list = $db->query('select * from data_siswa');
-$cat_list = $db->query('select * from data_siswa  .$nisn_name.' '.$sql_limit);
+$cat_list = $db->query('select * from data_siswa where nisn LIKE \'%' .$nisn_name.' '.$sql_limit);
 $arr = array();
 $arr['info'] = 'success';
 $arr['num'] = count($cat_list);
