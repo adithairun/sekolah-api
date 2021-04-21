@@ -1,6 +1,6 @@
 <?php
 function getRegisteredAPI(){
-	return["abcd","123334"];
+	return["abcd","123"];
 }
 
 function isInputValid($inputs){
@@ -19,12 +19,9 @@ include dirname(dirname(__FILE__)).'/db/Db.class.php';
 $db = new Db();
 $limit = isset($_GET['limit']) ? (int) $_GET['limit'] : 0;
 //$name = isset($_GET['name']) ? $_GET['name'] : '';
-$jurusan = isset($_GET['jurusan']) ? $_GET['jurusan'] : '';
-$jk = isset($_GET['jk']) ? $_GET['jk'] : '';
-$tingkat = isset($_GET['tingkat']) ? $_GET['tingkat'] : '';
+$nisn = isset($_GET['nisn']) ? $_GET['nisn'] : '';
 $agama = isset($_GET['agama']) ? $_GET['agama'] : '';
-
-$jk = isset($_GET['jk']) ? $_GET['jk'] : '';
+$jurusan = isset($_GET['jurusan']) ? $_GET['jurusan'] : '';
 
 $sql_limit = '';
 if (!empty($limit)) {
@@ -32,28 +29,14 @@ if (!empty($limit)) {
 }
 $sql_name = '';
 if (!empty($name)) {
-    $sql_name = ' where tingkat LIKE \'%'.$name.'%\' ';
+    $sql_name = ' where nisn LIKE \'%'.$name.'%\' ';
 }
 
-$jurusan_name = '';
-if (!empty($jurusan)) {
-    $jurusan_name = ' where jurusan LIKE \'%'.$jurusan.'%\' ';
-}
-$tingkat_name = '';
-if (!empty($tingkat)) {
-    $tingkat_name = ' where tingkat LIKE \'%'.$tingkat.'%\' ';
+$nisn_name = '';
+if (!empty($nisn)) {
+    $nisn_name = ' where nisn LIKE \'%'.$nisn.'%\' ';
 }
 
-$jk_name = '';
-if (!empty($jk)) {
-    $jk_name = ' where jk LIKE \'%'.$jk.'%\' ';
-}
-
-
-$agama_name = '';
-if (!empty($agama)) {
-    $agama_name = ' where agama LIKE \'%'.$agama.'%\' and tingkat LIKE \'%'.$tingkat.'%\' and jurusan LIKE \'%'.$jurusan.'%\' ';
-}
 
 
 
@@ -62,7 +45,7 @@ if (!empty($agama)) {
 
 //$cat_list = $db->query('select * from categories '.$sql_name.' '.$sql_limit);
 //$cat_list = $db->query('select * from data_siswa');
-$cat_list = $db->query('select * from data_siswa  '.$agama_name.''.$tingkat_name.' '.$sql_limit);
+$cat_list = $db->query('select * from data_siswa  .$nisn_name.' '.$sql_limit);
 $arr = array();
 $arr['info'] = 'success';
 $arr['num'] = count($cat_list);
