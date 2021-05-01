@@ -1,0 +1,203 @@
+Time : 11:59:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '
+
+Time : 11:59:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '
+
+Time : 11:59:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '
+
+Time : 11:58:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '
+
+Time : 11:58:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '
+
+Time : 11:56:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where agama LIKE '
+
+Time : 11:56:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where agama LIKE '
+
+Time : 11:56:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where agama LIKE '
+
+Time : 11:56:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where agama LIKE '
+
+Time : 11:56:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where agama LIKE '
+
+Time : 11:56:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where agama LIKE '
+
+Time : 11:56:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where agama LIKE '
+
+Time : 11:56:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where agama LIKE '
+
+Time : 11:56:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where agama LIKE '
+
+Time : 11:56:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where agama LIKE '
+
+Time : 11:56:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where agama LIKE '
+
+Time : 11:51:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'islam%' and tingkat LIKE '%x%'' at line 1
+Raw SQL : select * from data_siswa where agama islam%' and tingkat LIKE '%x%'
+
+Time : 11:49:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'islam and tingkat LIKE '%10%' and jurusan LIKE '%%'' at line 1
+Raw SQL : select * from data_siswa where agama islam and tingkat LIKE '%10%' and jurusan LIKE '%%'
+
+Time : 11:48:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'islam and tingkat LIKE '%%' and jurusan LIKE '%%'' at line 1
+Raw SQL : select * from data_siswa where agama islam and tingkat LIKE '%%' and jurusan LIKE '%%'
+
+Time : 11:48:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'islam and tingkat LIKE '%%' and jurusan LIKE '%%'' at line 1
+Raw SQL : select * from data_siswa where agama islam and tingkat LIKE '%%' and jurusan LIKE '%%'
+
+Time : 11:48:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'islam and tingkat LIKE '%%' and jurusan LIKE '%%'' at line 1
+Raw SQL : select * from data_siswa where agama islam and tingkat LIKE '%%' and jurusan LIKE '%%'
+
+Time : 11:48:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'islam and tingkat LIKE '%%' and jurusan LIKE '%%'' at line 1
+Raw SQL : select * from data_siswa where agama islam and tingkat LIKE '%%' and jurusan LIKE '%%'
+
+Time : 11:48:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'islam%' and tingkat LIKE '%%' and jurusan LIKE '%%'' at line 1
+Raw SQL : select * from data_siswa where agama islam%' and tingkat LIKE '%%' and jurusan LIKE '%%'
+
+Time : 11:47:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'islam%' and tingkat LIKE '%%' and jurusan LIKE '%%'' at line 1
+Raw SQL : select * from data_siswa where agama islam%' and tingkat LIKE '%%' and jurusan LIKE '%%'
+
+Time : 11:47:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where agama LIKE '%islam%' and tingkat LIKE '%%' and jurusan LIKE '%%'' at line 1
+Raw SQL : select * from data_siswa where agama  where agama LIKE '%islam%' and tingkat LIKE '%%' and jurusan LIKE '%%'
+
+Time : 11:46:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where tanggal_lahir LIKE '%2005-10-26%' and nisn LIKE '%00563039%'' at line 1
+Raw SQL : select * from data_siswa where nisn where tanggal_lahir LIKE '%2005-10-26%' and nisn LIKE '%00563039%'
+
+Time : 11:46:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where tanggal_lahir LIKE '%2005-10-26%' and nisn LIKE '%00563039%'' at line 1
+Raw SQL : select * from data_siswa where nisn where tanggal_lahir LIKE '%2005-10-26%' and nisn LIKE '%00563039%'
+
+Time : 11:37:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0056303979%' and tanggal_lahir LIKE '%2005-10-26%'' at line 1
+Raw SQL : select * from data_siswa  where nisn 0056303979%' and tanggal_lahir LIKE '%2005-10-26%'
+
+Time : 11:37:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0056303979%' and tanggal_lahir 2005-10-26%'' at line 1
+Raw SQL : select * from data_siswa  where nisn 0056303979%' and tanggal_lahir 2005-10-26%'
+
+Time : 11:35:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''% where nisn LIKE '%0056303979%' and tanggal_lahir LIKE '%2005-10-2%'' at line 1
+Raw SQL : select * from data_siswa  '% where nisn LIKE '%0056303979%' and tanggal_lahir LIKE '%2005-10-2%'
+
+Time : 11:34:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '% where nisn LIKE '%0056303979%' and tanggal_lahir LIKE '%2005-10-2%'
+
+Time : 11:34:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '% where nisn LIKE '%0056303979%' and tanggal_lahir LIKE '%2005-10-2%'
+
+Time : 11:34:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '% where nisn LIKE '%0056303979%' and tanggal_lahir LIKE '%2005-10-2%'
+
+Time : 11:33:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '% where nisn LIKE '%0056303979%' and tanggal_lahir LIKE '%2005-10-2%'
+
+Time : 11:33:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '% where nisn LIKE '%0056303979%' and tanggal_lahir LIKE '%2005-10-2%'
+
+Time : 11:33:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '% where nisn LIKE '%0056303979%' and tanggal_lahir LIKE '%2005-10-2%'
+
+Time : 11:33:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '% where nisn LIKE '%0056303979%' and tanggal_lahir LIKE '%2005-10-2%'
+
+Time : 11:33:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '% where nisn LIKE '%0056303979%' and tanggal_lahir LIKE '%2005-10-2%'
+
+Time : 11:33:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '% where nisn LIKE '%0056303979%' and tanggal_lahir LIKE '%2005-10-2%'
+
+Time : 11:33:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '% where nisn LIKE '%0056303979%' and tanggal_lahir LIKE '%2005-10-2%'
+
+Time : 11:25:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '% 0056303979%' and tanggal_lahir %'
+
+Time : 11:25:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0056303979%' and tanggal_lahir %'' at line 1
+Raw SQL : select * from data_siswa where nisn 0056303979%' and tanggal_lahir %'
+
+Time : 11:25:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '% 0056303979%' and tanggal_lahir %'
+
+Time : 11:24:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '% 0056303979%' and tanggal_lahir %'
+
+Time : 11:24:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '% 0056303979%' and tanggal_lahir %'
+
+Time : 11:24:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '% 0056303979%' and tanggal_lahir %'
+
+Time : 11:18:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '%
+
+Time : 11:18:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '%
+
+Time : 11:18:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '%
+
+Time : 11:18:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '%
+
+Time : 11:18:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '%
