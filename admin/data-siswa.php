@@ -271,7 +271,7 @@ $json_list = @file_get_contents($api_categories_list);
 		';
 	}
 	
-    echo "JIKA MENU TIDAK TAMPIL, API KEY SEKOLAH TIDAK VALID";
+    echo "JIKA MENU DATA SISWA TIDAK TAMPIL, BERARTI API KEY SEKOLAH TIDAK VALID";
 	
 
 	?>
