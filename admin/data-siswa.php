@@ -235,7 +235,7 @@
 
 
 							<?php
-$api_categories_list = 'http://localhost/proyek/admin-sekolah-api/api/sekolah/sekolah.php?key_api='.$fetch_api['key_api'].'&kode_menu=20';
+$api_categories_list = 'http://localhost/proyek-github/admin-sekolah-api/api/sekolah/sekolah.php?key_api='.$fetch_api['key_api'].'&kode_menu=20';
 $json_list = @file_get_contents($api_categories_list);
 ?>
 <?php
@@ -263,6 +263,7 @@ $json_list = @file_get_contents($api_categories_list);
 								
 							   
 		<td>'.$arr['menu'].'</td>
+     
 							
 						   
 						
@@ -270,7 +271,7 @@ $json_list = @file_get_contents($api_categories_list);
 		';
 	}
 	
-	
+    echo "JIKA MENU TIDAK TAMPIL, API KEY SEKOLAH TIDAK VALID";
 	
 
 	?>
