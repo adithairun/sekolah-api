@@ -1,0 +1,39 @@
+Time : 19:22:53
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+Time : 19:22:09
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+Time : 19:22:09
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+Time : 19:22:08
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+Time : 10:23:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '%
+
+Time : 10:23:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '%
+
+Time : 10:22:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '%
+
+Time : 10:22:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '%
+
+Time : 09:50:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '%
+
+Time : 09:50:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '%
+
+Time : 09:49:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '%

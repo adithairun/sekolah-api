@@ -1,0 +1,59 @@
+Time : 20:45:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '%
+
+Time : 20:45:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '%
+
+Time : 20:43:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '%
+
+Time : 20:43:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '%
+
+Time : 20:43:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' at line 1
+Raw SQL : select * from data_siswa where nisn LIKE '%
+
+Time : 20:41:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where nisn LIKE '%3123456789%'' at line 1
+Raw SQL : select * from data_siswa where where nisn LIKE '%3123456789%'
+
+Time : 20:40:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE 3123456789' at line 1
+Raw SQL : select * from data_siswa where LIKE 3123456789
+
+Time : 20:39:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where 3123456789%'
+
+Time : 20:39:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''' at line 1
+Raw SQL : select * from data_siswa where 3123456789%'
+
+Time : 20:39:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE 3123456789%'' at line 1
+Raw SQL : select * from data_siswa where LIKE 3123456789%'
+
+Time : 20:39:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE 3123456789%'' at line 1
+Raw SQL : select * from data_siswa where LIKE 3123456789%'
+
+Time : 20:39:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%3123456789%'' at line 1
+Raw SQL : select * from data_siswa where LIKE '%3123456789%'
+
+Time : 20:37:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : select * from data_siswa where
+
+Time : 20:36:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : select * from data_siswa where
+
+Time : 20:36:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : select * from data_siswa where
