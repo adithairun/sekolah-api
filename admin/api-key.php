@@ -231,6 +231,7 @@
 			
 	
 			<th>API KEY SEKOLAH</th>
+			<th>URL</th>
 	
 			<th>Aksi</th>
 			</tr>
@@ -247,7 +248,8 @@
 			
 				
 				
-				<td><?php echo $row['key_api']; ?></td> 
+			<td><?php echo $row['key_api']; ?></td>
+				<td><?php echo $row['url_api']; ?></td> 
 				<td><a href="edit-api-sekolah.php?id_key=<?php echo $row['id_key'];?>" title="edit API Sekolah"><button class="btn btn-primary"><span class="ion-compose"></span>  Edit</button>
 				
 				</a>

@@ -207,10 +207,17 @@
 				<td>
 					<input type="hidden" name="id_key" value="<?php echo $data['id_key'] ?>">
 					<input type="text" name="key_api" value="<?php echo $data['key_api'] ?>">
+          
 					
 				</td>					
 			</tr>	
-		
+      <tr>
+				<td>URL API KEY</td>
+				<td>
+        <input type="text" name="url_api" value="<?php echo $data['url_api'] ?>">
+      
+				</td>					
+			</tr>
 			<tr>
 				<td></td>
 				<td><input class="btn btn-primary btn-align " type="submit" value="Simpan">
