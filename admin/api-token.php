@@ -239,7 +239,7 @@
 
 
 							<?php
-$api_categories_list = 'http://localhost/proyek-github/admin-sekolah-api/api/sekolah/sekolah.php?key_api='.$fetch_api['key_api'].'&kode_menu=30';
+$api_categories_list = $fetch_api['url_api'].'/sekolah/sekolah.php?key_api='.$fetch_api['key_api'].'&kode_menu=30';
 $json_list = @file_get_contents($api_categories_list);
 ?>
 <?php
